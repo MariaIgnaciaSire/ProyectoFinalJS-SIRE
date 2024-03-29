@@ -2,13 +2,14 @@
     "usuarios": [
     {
         "id": 1,
-        "nombre": "Usuario 1",
-        "email": "usuario1@example.com"
+        "nombre": "Usuario1",
+        "contrasena": "contrasena123"
     },
     {
         "id": 2,
-        "nombre": "Usuario 2",
-        "email": "usuario2@example.com"
+        "nombre": "Usuario2",
+        "contrasena": "qwerty"
     }
     ]
 }
+
