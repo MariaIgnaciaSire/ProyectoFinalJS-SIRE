@@ -37,7 +37,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 text: 'Ahora puedes acceder al cotizador de cabañas.',
             }).then(function() {
                 // Redirigir a la página del cotizador después de iniciar sesión
-                window.location.href = '/pagina/cotizador.html';
+                window.location.href = './pagina/cotizador.html';
             });
         } else {
             // Mostrar un mensaje de error con Sweet Alert
